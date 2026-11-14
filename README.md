@@ -121,4 +121,4 @@ La configuration Maven et les commandes de lancement ont été préparées pour 
 
 </details>
 
-**Berat Dastan**
+**Berat DASTAN**
